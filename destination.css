@@ -24,12 +24,12 @@ a, h1, h2{
 }
 
 blockquote {
-    background-color: FFFFA8;
-    text-decoration: italic;
+    background-color: #FFFFA8;
+    text-style: italic;
 }
 
 ul.visitor-tips {
-    list-style-image: url('images:/icon.png'); 
+    list-style-image: url('images/icon.png'); 
 }
 
 
